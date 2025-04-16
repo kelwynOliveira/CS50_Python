@@ -1,6 +1,6 @@
 # Kanpy
 
-#### Video Demo: [CS50’s Introduction to Programming with Python - Final project](https://youtu.be/yocow-gIXwI)
+#### Video Demo: [CS50’s Introduction to Programming with Python - Final project](https://youtu.be/Gnmm61MF0rE)
 
 #### Description: This project is a command-line interface Kanban board created using Python for [CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?webview=false&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edx&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fcs50) final project.
 
